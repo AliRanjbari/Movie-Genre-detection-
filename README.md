@@ -1,4 +1,4 @@
-# Movie-Genre-detection
+# Movie-Type-detection
 
 This project was part of my AI course  
 I uses sickit-lean to to model and predict data using Decision Tree model and random forrest  
